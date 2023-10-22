@@ -1,0 +1,24 @@
+@media screen and (max-width: 768px) {
+    .account-actions button {
+        padding: 15px 15px;
+        margin: 5px;
+        font-size: 40px;
+        display: flexbox;
+    }
+    .profile-pic img {
+    border-radius: 50%;
+    height: 126px;
+    width: 139px;
+
+    }
+    .personal-info {
+        font-size: 30px;
+    }
+    header {
+        padding: 27px;
+    }
+    .notification {
+        color: #ffffff;
+        font-size: 45px;
+    }
+}
